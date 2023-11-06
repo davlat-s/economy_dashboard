@@ -1,0 +1,5 @@
+symbol,name,bid,ask,high,low,change,change_percentage,1$=,id,date,time,zone,currency,importance,event,actual,forecast,previous
+EUR/USD,EUR/USD - Euro US Dollar,1.0317,1.0321,1.0328,1.0316,+0.0002,+0.02%,0.9692740137636909,,,,,,,,,,
+USD/JPY,USD/JPY - US Dollar Japanese Yen,133.07,133.08,133.13,132.88,+0.07,+0.06%,133.07,,,,,,,,,,
+USD/RUB,USD/RUB - US Dollar Russian Ruble,60.67,60.67,60.7805,60.5558,+0.0050,+0.01%,60.67,,,,,,,,,,
+,,,,,,,,,455069,02/08/2022,07:00,united states,USD,high,JOLTs Job Openings  (Jun),10.698M,11.000M,11.303M
